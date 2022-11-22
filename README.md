@@ -4,11 +4,12 @@
 <a href="https://www.linkedin.com/in/weronika-ko%C5%82odziej-449b8024a/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<br/>
-<hr />
+
 
 
 <!--
+<br/>
+<hr />
 <div align="center">
   <a href="https://github.com/kolower">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kolower&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
