@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi ther! I'm Weronika, welcome to my GitHub. 👋
 
 <!--
 **kolower/kolower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
