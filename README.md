@@ -1,6 +1,19 @@
 ### Hi ther! I'm Weronika, welcome to my GitHub. 👋
 
+<hr />
+<a href="https://www.linkedin.com/in/weronika-ko%C5%82odziej-449b8024a/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
 <!--
+
+
+<a href="mailto:murilommms@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<br/>
+
+### About Me 🚀
 **kolower/kolower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
