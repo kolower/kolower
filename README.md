@@ -1,4 +1,4 @@
-### Hi ther! I'm Weronika, welcome to my GitHub. 👋
+### Hi there! I'm Weronika, welcome to my GitHub. 👋
 
 <hr />
 <a href="https://www.linkedin.com/in/weronika-ko%C5%82odziej-449b8024a/">
