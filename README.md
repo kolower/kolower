@@ -7,7 +7,7 @@
 <!--
 
 
-<a href="mailto:murilommms@gmail.com">
+<a href="mailto:kolodziejweronika98@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
